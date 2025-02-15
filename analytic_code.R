@@ -50,12 +50,11 @@ library(data.table)
 #####################
 
 # Read in Survival Data
-delay <- read.csv("C:/Users/qne4/CDC/NCEZID-MDB - Data Science and Informatics (DSI)/Data Science/people/Massey-Jason/Personal Projects/Diagnostic Delays/all_path.csv")
-blasto <- read.csv("C:/Users/qne4/CDC/NCEZID-MDB - Data Science and Informatics (DSI)/Data Science/people/Massey-Jason/Personal Projects/Diagnostic Delays/blasto.csv")
-cocci <- read.csv("C:/Users/qne4/CDC/NCEZID-MDB - Data Science and Informatics (DSI)/Data Science/people/Massey-Jason/Personal Projects/Diagnostic Delays/cocci.csv")
-histo <- read.csv("C:/Users/qne4/CDC/NCEZID-MDB - Data Science and Informatics (DSI)/Data Science/people/Massey-Jason/Personal Projects/Diagnostic Delays/histo.csv")
-combined <- read.csv("C:/Users/qne4/CDC/NCEZID-MDB - Data Science and Informatics (DSI)/Data Science/people/Massey-Jason/Personal Projects/Diagnostic Delays/combined.csv")
-
+delay <- read.csv("XXXX")
+blasto <- read.csv("XXXX")
+cocci <- read.csv("XXXX")
+histo <- read.csv("XXXX")
+combined <- read.csv("XXXX")
 
 
 #stating the variables I want to be a factor
