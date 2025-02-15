@@ -11,7 +11,7 @@
 
 
 *Read in Data;
-libname all3 "C:\Users\qne4\CDC\NCEZID-MDB - Data Science and Informatics (DSI)\Data Science\people\Massey-Jason\Personal Projects\Diagnostic Delays";
+libname all3 "XXXX";
 run;
 
 data all3;
